@@ -1,5 +1,5 @@
-/** 
-Easy - Truncate Sentence 
+/**
+Easy - Truncate Sentence
 https://leetcode.com/problems/truncate-sentence/
 Author : LalitN97
 **/

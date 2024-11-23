@@ -2,6 +2,7 @@
 Easy - Truncate Sentence
 https://leetcode.com/problems/truncate-sentence/
 Author : LalitN97
+
 **/
 
 class Solution {
